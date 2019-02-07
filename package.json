@@ -1,5 +1,5 @@
 {
-  "name": "ts-using",
+  "name": "wd-ts-using",
   "version": "1.0.0",
   "description": "using function for data driven tests",
   "main": "./dist/using.js",
