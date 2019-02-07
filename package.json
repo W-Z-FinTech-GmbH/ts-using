@@ -1,5 +1,5 @@
 {
-  "name": "wd-ts-using",
+  "name": "@web-devil/ts-using",
   "version": "1.0.0",
   "description": "using function for data driven tests",
   "main": "./dist/using.js",
