@@ -1,0 +1,9 @@
+{
+  "name": "ts-using",
+  "version": "0.0.9",
+  "description": "web-devil typescript using function (for data driven tests)",
+  "main": "./using.js",
+  "typings": "./using.d.ts",
+  "author": "Andreas Paech",
+  "license": "MIT"
+}
