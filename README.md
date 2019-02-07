@@ -9,7 +9,7 @@ Usage
 -----
 Add the import statement for the import function.
 
-``import {using} from 'ts-using'``
+``import {using} from '@web-devil/ts-using'``
 
 Use it as a data provider for your test.
 
@@ -18,7 +18,7 @@ Use it as a data provider for your test.
 Full example:
 
 ```typescript
-import {using} from 'ts-using';
+import {using} from '@web-devil/ts-using';
 import { BarPipe } from './bar.pipe';
 
 describe('BarPipe', () => {
@@ -38,8 +38,8 @@ describe('BarPipe', () => {
 
 Installation
 ------------
-Install package from github
+Install package from npm-registry
 
-``npm install web-devil/ts-using -D``
+``npm install @web-devil/ts-using -D``
 
 That's it!
