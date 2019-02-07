@@ -1,9 +1,31 @@
 {
   "name": "ts-using",
-  "version": "0.0.9",
-  "description": "web-devil typescript using function (for data driven tests)",
-  "main": "./using.js",
-  "typings": "./using.d.ts",
-  "author": "Andreas Paech",
-  "license": "MIT"
+  "version": "1.0.0",
+  "description": "using function for data driven tests",
+  "main": "./dist/using.js",
+  "typings": "./dist/using.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-devil/ts-using.git"
+  },
+  "keywords": [
+    "jasmine",
+    "karma",
+    "tests",
+    "using",
+    "data provider"
+  ],
+  "author": "Andreas Paech <paech.andreas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web-devil/ts-using/issues"
+  },
+  "homepage": "https://github.com/web-devil/ts-using#readme",
+  "devDependencies": {
+    "typescript": "^3.3.3"
+  }
 }
